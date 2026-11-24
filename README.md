@@ -7,10 +7,11 @@ One image summing up the world news of **Monday 23 November 2026**.
 [![rank](https://make.fun/badge/news-image-20261123/Misaka450/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard)
 [![reward](https://make.fun/badge/news-image-20261123/Misaka450/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
-31 stories across seven regions, every one dated 23 November 2026 and every one
-illustrated: a serif masthead and red promo line, a four-cell ledger of the day's hard
-numbers, a UTC reporting timeline, fifteen carded leads with kickers and stat chips,
-a pinned world map, eight further dispatches, and a date-check strip that names the
+26 stories across seven regions, every one dated 23 November 2026, sourced and
+illustrated: a serif masthead and red promo line, a five-cell ledger of the day's hard
+numbers, a UTC reporting timeline, twelve carded illustrated leads with kickers and
+stat chips, a pinned world of further dispatches, and a date-check strip that names the
+nearby events deliberately left out and their true dates.
 nearby events deliberately left out and their true dates.
 
 ## Run
